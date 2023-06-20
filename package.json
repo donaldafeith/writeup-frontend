@@ -9,7 +9,7 @@
     "@material-ui/styles": "^4.3.3",
     "axios": "^0.19.0",
     "emotion": "^10.0.14",
-    "husky": "^3.0.4",
+    "husky": "^4.0.0",
     "immutable": "^4.0.0-rc.12",
     "is-hotkey": "^0.1.4",
     "moment": "^2.24.0",
@@ -20,7 +20,7 @@
     "react-helmet": "^5.2.1",
     "react-responsive-carousel": "^3.1.50",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.0",
     "slate": "0.47.4",
     "slate-react": "0.22.4",
     "uuid": "^3.3.3"
