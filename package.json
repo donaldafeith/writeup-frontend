@@ -10,7 +10,7 @@
     "axios": "^1.6.0",
     "emotion": "^10.0.14",
     "husky": "^3.0.4",
-    "immutable": "^4.0.0-rc.12",
+    "immutable": "^4.3.4",
     "is-hotkey": "^0.1.4",
     "moment": "^2.29.4",
     "react": "^16.9.0",
